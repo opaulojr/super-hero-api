@@ -1,0 +1,24 @@
+{
+  "name": "super-hero-api",
+  "version": "1.0.0",
+  "description": "Este é o meu 12º projeto durante minha jornada na Trybe!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "Paulo",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.29",
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "stylelint": "^15.10.3",
+    "stylelint-config-idiomatic-order": "^9.0.0",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
